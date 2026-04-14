@@ -1,13 +1,14 @@
 * {
-  margin:0px;
-  padding:0px;
+  margin: 0px;
+  padding: 0px;
 }
 
 #octocat {
   display: block;
-  width:384px;
+  width: 384px;
   margin: 50px auto;
 }
+
 
 p {
   display: block;
@@ -28,4 +29,18 @@ body {
  display: block;
  width: 100%;
  height: auto;
+  color: #333;
+  line-height: 1.5;
+  text-align: center;
+}
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f8f9fa;
+}
+
+#octocat img {
+  display: block;
+  width: 100%;
+  height: auto;
 }
